@@ -1,4 +1,4 @@
-# ZTE MC888D Wi-Fi Limit Helper
+# ZTE MC888D Wi-Fi Client Limit Helper
 
 A browser-console helper for managing Wi-Fi client limits on a ZTE MC888D with Orange firmware.
 
